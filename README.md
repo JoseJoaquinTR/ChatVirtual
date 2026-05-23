@@ -1,9 +1,8 @@
 # ChatVirtual
-Chat cliente-servidor en Python con TCP, cifrado asimétrico RSA-2048, autenticación con hash SHA-256 + salt, bitácora de eventos y soporte para múltiples usuarios. Proyecto final de Seguridad Informática.
+Chat cliente-servidor en Python con TCP, cifrado asimétrico RSA-2048, autenticación con hash SHA-256 + salt, bitácora de eventos y soporte para múltiples usuarios. 
 # Chat seguro TCP con cifrado asimétrico RSA
 
-Aplicación de chat cliente-servidor desarrollada en Python como proyecto
-final de la asignatura de Seguridad Informática. Permite la comunicación
+Aplicación de chat cliente-servidor desarrollada en Python. Permite la comunicación
 entre múltiples usuarios mediante el protocolo TCP, con autenticación,
 cifrado de extremo a extremo usando RSA y bitácora de eventos.
 
