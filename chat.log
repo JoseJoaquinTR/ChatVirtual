@@ -1,0 +1,42 @@
+2026-05-17 14:39:24 | INFO | servidor | Generando par de claves RSA del servidor...
+2026-05-17 14:39:24 | INFO | servidor | Claves generadas.
+2026-05-17 14:39:24 | INFO | servidor | Servidor escuchando en 0.0.0.0:5000 (max 5 usuarios)
+2026-05-17 14:41:21 | INFO | servidor | Conexion entrante desde 127.0.0.1:61360
+2026-05-17 14:42:04 | INFO | servidor | Nuevo usuario registrado: jose
+2026-05-17 14:42:15 | INFO | servidor | Login exitoso: jose
+2026-05-17 14:50:49 | INFO | servidor | Publico de jose
+2026-05-17 14:51:12 | INFO | servidor | Conexion entrante desde 127.0.0.1:56607
+2026-05-17 14:51:32 | INFO | servidor | Nuevo usuario registrado: andrea
+2026-05-17 14:51:41 | INFO | servidor | Login exitoso: andrea
+2026-05-17 14:51:51 | INFO | servidor | Publico de jose
+2026-05-17 14:51:55 | INFO | servidor | Publico de andrea
+2026-05-17 14:52:05 | INFO | servidor | Publico de jose
+2026-05-17 15:00:33 | INFO | servidor | Conexion entrante desde 127.0.0.1:63414
+2026-05-17 15:00:33 | INFO | servidor | El cliente ('127.0.0.1', 63414) cerro antes del handshake
+2026-05-17 15:01:08 | INFO | servidor | Publico de andrea
+2026-05-17 15:01:12 | INFO | servidor | Publico de jose
+2026-05-17 15:01:45 | INFO | servidor | Conexion entrante desde 127.0.0.1:58594
+2026-05-17 15:01:45 | INFO | servidor | El cliente ('127.0.0.1', 58594) cerro antes del handshake
+2026-05-17 15:01:58 | INFO | servidor | Conexion entrante desde 127.0.0.1:51563
+2026-05-17 15:01:58 | INFO | servidor | El cliente ('127.0.0.1', 51563) cerro antes del handshake
+2026-05-17 15:04:20 | INFO | servidor | Usuario desconectado: jose
+2026-05-17 15:05:05 | INFO | servidor | Publico de andrea
+2026-05-17 15:05:57 | INFO | servidor | Usuario desconectado: andrea
+2026-05-17 15:06:06 | INFO | servidor | Conexion entrante desde 127.0.0.1:57210
+2026-05-17 15:06:13 | INFO | servidor | Login exitoso: andrea
+2026-05-17 15:08:11 | INFO | servidor | Publico de andrea
+2026-05-17 15:09:01 | INFO | servidor | Publico de andrea
+2026-05-17 15:09:56 | INFO | servidor | Conexion entrante desde 127.0.0.1:53013
+2026-05-17 15:10:04 | INFO | servidor | Intento de registro fallido para 'py': El usuario debe tener entre 3 y 16 caracteres y solo letras, numeros o guion bajo.
+2026-05-17 15:10:18 | INFO | servidor | Intento de registro fallido para 'pygui_cliente.py': El usuario debe tener entre 3 y 16 caracteres y solo letras, numeros o guion bajo.
+2026-05-17 15:10:25 | INFO | servidor | Nuevo usuario registrado: pygui_clien
+2026-05-17 15:10:36 | INFO | servidor | Login exitoso: pygui_clien
+2026-05-17 15:10:51 | INFO | servidor | Usuario desconectado: pygui_clien
+2026-05-17 15:10:57 | INFO | servidor | Conexion entrante desde 127.0.0.1:49707
+2026-05-17 15:11:06 | WARNING | servidor | Login fallido para usuario 'josea'
+2026-05-17 15:11:08 | WARNING | servidor | Login fallido para usuario 'jose'
+2026-05-17 15:11:09 | WARNING | servidor | Login fallido para usuario 'jose'
+2026-05-17 15:11:10 | WARNING | servidor | Login fallido para usuario 'jose'
+2026-05-17 15:11:10 | WARNING | servidor | Login fallido para usuario 'jose'
+2026-05-17 15:11:10 | INFO | servidor | Autenticacion fallida desde ('127.0.0.1', 49707)
+2026-05-17 15:12:50 | INFO | servidor | Usuario desconectado: andrea

@@ -1,0 +1,14 @@
+{
+  "jose": {
+    "salt": "a93e73707aaed6f66dcd0f751b64a74c",
+    "hash": "85e9faa10b376db936a01ea9545d9940863f820b8a885048eb60391e0e5db439"
+  },
+  "andrea": {
+    "salt": "e3e15386ac04cf384bc9428ce9d3dbca",
+    "hash": "700f73c796fa705e851832571431eb36b491d716c6156baa55249b8f8dae93f3"
+  },
+  "pygui_clien": {
+    "salt": "4f3cad8e12c7ce58c65bf85951a8728b",
+    "hash": "c82b1e30a69e4d33805578a4ac7063c2f374a6d8eea565d08e5a0a0e232bc6c9"
+  }
+}
